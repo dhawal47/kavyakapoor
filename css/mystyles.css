@@ -1,0 +1,60 @@
+body {
+    background-color: bisque;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+}
+img {
+    border-image: round;
+    border-image: 20px;
+ height: 200px;
+}
+
+
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: teal;
+    font-style: inherit ;
+}
+h1 {
+    font-family: fantasy;
+    color: palevioletred;
+    font-style: inherit;
+    font-variant: initial;
+}
+h3{
+    font-family: cursive;
+    font-style: normal;
+    color: lightseagreen;
+}
+p{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+ul{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+ol{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+td{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+form{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
